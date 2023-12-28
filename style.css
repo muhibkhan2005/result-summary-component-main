@@ -1,0 +1,155 @@
+.container{
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+    font-family: 'roboto', sans-serif; 
+    
+}
+
+.double{
+    display: flex;
+    border-radius: 20px;
+    background-color: white;
+}
+.left-col{
+    width: 20rem;
+    background-color:hsl(252, 79%, 49%);
+    border-radius: 20px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    height: 25rem;
+   
+}
+.res-4{
+    color: rgb(226, 220, 220);
+    font-size: 0.8rem;
+    margin-top: 1.5rem;
+
+}
+.circle{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(37, 37, 204);
+    border-radius: 50%;
+    margin-left: 80px;
+    margin-top:30px;
+    margin-bottom: 20px ;
+    color: rgb(153, 151, 151);
+
+}
+.left-6{
+    padding-top: 30px;
+    font-weight: bold;
+    display: block;
+    color: white;
+    font-size: 3.5rem;
+}
+.great{
+    margin-bottom: 12px;
+}
+.title-para{
+    width: 70%;
+    margin-left: 2.9rem;
+    font-size: 15px;
+    word-spacing: 3px;
+    color: rgb(164, 164, 164);
+}
+p{
+    display: block;
+    margin-block-start:1rem ;
+    margin-block-end:1rem ;
+    margin-inline-start: 0rem;
+    margin-inline-end: 0rem;
+}
+.right-col{
+    display: inline;
+    width: 20rem;
+    padding-left: 25px;
+    
+    
+}
+.summary{
+    font-size: 20px;
+    margin-bottom: 15px;
+    font-family:'antok',sans-serif ;
+    font-weight: 900;
+    color: black;
+
+}
+.right-a{
+    background-color: lightgray;
+    width: 100%;
+    height: 30px;
+    padding: 13px;
+    border-radius: 15px;
+    font-size: 18px;
+    margin-bottom: 13px;
+    
+}
+.right-a-b{
+    display: flex;
+    
+}
+.reaction{
+    color: hsl(0, 100%, 67%);
+    font-weight: 600;
+    margin-left: 8px;
+    margin-top: 8px;
+}
+.right-t{
+    color: rgb(87, 85, 85);
+    font-weight: bold;
+    margin-top: 13px;
+    
+}
+.eighty{
+    color: black;
+    font-family: 'Anton',sans-serif;
+    font-weight: 900;
+
+}
+.memory{
+
+color:hsl(39, 100%, 56%);
+    font-weight: 600;
+    margin-left: 8px;
+    margin-top: 8px;
+}
+.verbal{
+    font-weight: 600;
+    margin-left: 10px;
+    margin-top: 8px;
+    color:hsl(166, 100%, 37%) ;
+}
+.visual{
+    font-weight: 600;
+    margin-left: 10px;
+    margin-top: 8px;
+color: hsl(234, 85%, 45%);
+}
+.btn{
+    font-size: 0.9rem;
+    background-color: hsl(224, 30%, 27%) ;
+    color: white;
+    width: 80%;
+    height: 50px;
+    border-radius: 22px;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 200px;
+}
+.attribution{
+    font-size: 20px;
+    justify-content:center;
+    width: 100%;
+    padding-top: 40px;
+    text-align: center;
+}
+.btn:hover{
+    
+    background-color: rgb(78, 78, 228);
+}
+.reaction-icon{
+    padding-bottom: 16px;
+}
